@@ -1,0 +1,3 @@
+/home/notanumber/Compiladores e Interpretes/LexicalAnalyzerD/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/notanumber/Compiladores e Interpretes/LexicalAnalyzerD/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/home/notanumber/Compiladores e Interpretes/LexicalAnalyzerD/cmake-build-debug/CMakeFiles/Compiladores.dir

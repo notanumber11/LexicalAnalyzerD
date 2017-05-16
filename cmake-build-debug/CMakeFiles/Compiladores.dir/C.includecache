@@ -1,0 +1,136 @@
+#IncludeRegexLine: ^[ 	]*#[ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/notanumber/Compiladores e Interpretes/LexicalAnalyzerD/Definitions/definitions.h
+
+/home/notanumber/Compiladores e Interpretes/LexicalAnalyzerD/ErrorManager/errorManager.c
+stdio.h
+-
+stdlib.h
+-
+errorManager.h
+/home/notanumber/Compiladores e Interpretes/LexicalAnalyzerD/ErrorManager/errorManager.h
+
+/home/notanumber/Compiladores e Interpretes/LexicalAnalyzerD/ErrorManager/errorManager.h
+../Definitions/definitions.h
+/home/notanumber/Compiladores e Interpretes/LexicalAnalyzerD/Definitions/definitions.h
+
+/home/notanumber/Compiladores e Interpretes/LexicalAnalyzerD/Flex/lex.yy.c
+stdio.h
+-
+string.h
+-
+errno.h
+-
+stdlib.h
+-
+inttypes.h
+-
+stdio.h
+-
+../Definitions/definitions.h
+/home/notanumber/Compiladores e Interpretes/LexicalAnalyzerD/Definitions/definitions.h
+../ErrorManager/errorManager.h
+/home/notanumber/Compiladores e Interpretes/LexicalAnalyzerD/ErrorManager/errorManager.h
+unistd.h
+-
+
+/home/notanumber/Compiladores e Interpretes/LexicalAnalyzerD/InputSystem/InputSystem.c
+stdio.h
+-
+stdlib.h
+-
+memory.h
+-
+InputSystem.h
+/home/notanumber/Compiladores e Interpretes/LexicalAnalyzerD/InputSystem/InputSystem.h
+../Definitions/definitions.h
+/home/notanumber/Compiladores e Interpretes/LexicalAnalyzerD/Definitions/definitions.h
+
+/home/notanumber/Compiladores e Interpretes/LexicalAnalyzerD/InputSystem/InputSystem.h
+
+/home/notanumber/Compiladores e Interpretes/LexicalAnalyzerD/LexicalAnalyzer/lexicalAnalyzer.c
+lexicalAnalyzer.h
+/home/notanumber/Compiladores e Interpretes/LexicalAnalyzerD/LexicalAnalyzer/lexicalAnalyzer.h
+../Definitions/definitions.h
+/home/notanumber/Compiladores e Interpretes/LexicalAnalyzerD/Definitions/definitions.h
+stdio.h
+-
+stdlib.h
+-
+ctype.h
+-
+memory.h
+-
+../SymbolTable/hashTable.h
+/home/notanumber/Compiladores e Interpretes/LexicalAnalyzerD/SymbolTable/hashTable.h
+../ErrorManager/errorManager.h
+/home/notanumber/Compiladores e Interpretes/LexicalAnalyzerD/ErrorManager/errorManager.h
+
+/home/notanumber/Compiladores e Interpretes/LexicalAnalyzerD/LexicalAnalyzer/lexicalAnalyzer.h
+../InputSystem/InputSystem.h
+/home/notanumber/Compiladores e Interpretes/LexicalAnalyzerD/InputSystem/InputSystem.h
+
+/home/notanumber/Compiladores e Interpretes/LexicalAnalyzerD/SintaticAnalyzer/SintactitAnalyzer.c
+SintactitAnalyzer.h
+/home/notanumber/Compiladores e Interpretes/LexicalAnalyzerD/SintaticAnalyzer/SintactitAnalyzer.h
+../LexicalAnalyzer/lexicalAnalyzer.h
+/home/notanumber/Compiladores e Interpretes/LexicalAnalyzerD/LexicalAnalyzer/lexicalAnalyzer.h
+../Definitions/definitions.h
+/home/notanumber/Compiladores e Interpretes/LexicalAnalyzerD/Definitions/definitions.h
+
+/home/notanumber/Compiladores e Interpretes/LexicalAnalyzerD/SintaticAnalyzer/SintactitAnalyzer.h
+
+/home/notanumber/Compiladores e Interpretes/LexicalAnalyzerD/SymbolTable/hashTable.c
+hashTable.h
+/home/notanumber/Compiladores e Interpretes/LexicalAnalyzerD/SymbolTable/hashTable.h
+../Definitions/definitions.h
+/home/notanumber/Compiladores e Interpretes/LexicalAnalyzerD/Definitions/definitions.h
+stdio.h
+-
+stdlib.h
+-
+string.h
+-
+
+/home/notanumber/Compiladores e Interpretes/LexicalAnalyzerD/SymbolTable/hashTable.h
+
+/home/notanumber/Compiladores e Interpretes/LexicalAnalyzerD/SymbolTable/keywordsLoader.c
+stdio.h
+-
+keywordsLoader.h
+/home/notanumber/Compiladores e Interpretes/LexicalAnalyzerD/SymbolTable/keywordsLoader.h
+string.h
+-
+stdlib.h
+-
+ctype.h
+-
+hashTable.h
+/home/notanumber/Compiladores e Interpretes/LexicalAnalyzerD/SymbolTable/hashTable.h
+
+/home/notanumber/Compiladores e Interpretes/LexicalAnalyzerD/SymbolTable/keywordsLoader.h
+
+/home/notanumber/Compiladores e Interpretes/LexicalAnalyzerD/main.c
+SymbolTable/hashTable.h
+/home/notanumber/Compiladores e Interpretes/LexicalAnalyzerD/SymbolTable/hashTable.h
+SymbolTable/keywordsLoader.h
+/home/notanumber/Compiladores e Interpretes/LexicalAnalyzerD/SymbolTable/keywordsLoader.h
+InputSystem/InputSystem.h
+/home/notanumber/Compiladores e Interpretes/LexicalAnalyzerD/InputSystem/InputSystem.h
+SintaticAnalyzer/SintactitAnalyzer.h
+/home/notanumber/Compiladores e Interpretes/LexicalAnalyzerD/SintaticAnalyzer/SintactitAnalyzer.h
+Definitions/definitions.h
+/home/notanumber/Compiladores e Interpretes/LexicalAnalyzerD/Definitions/definitions.h
+stdio.h
+-
+stdlib.h
+-
+Flex/lex.yy.c
+/home/notanumber/Compiladores e Interpretes/LexicalAnalyzerD/Flex/lex.yy.c
+
